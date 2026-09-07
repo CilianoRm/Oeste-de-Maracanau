@@ -1,0 +1,22 @@
+{
+  "week_start": "2026-09-07",
+  "week_end": "2026-09-13",
+  "source_url": "https://wol.jw.org/pt/wol/dt/r5/lp-t/2026/9/9",
+  "source_title": "7-13 DE SETEMBRO",
+  "bible_text": "JEREMIAS 32-33",
+  "parts": [
+    {"number":1,"title":"Meditar nas qualidades de Jeová fortalece a nossa fé","duration":10},
+    {"number":2,"title":"Joias espirituais","duration":10},
+    {"number":3,"title":"Leitura da Bíblia","duration":4,"subtitle":"Jer. 32:6-18"},
+    {"number":4,"title":"Iniciando conversas","duration":3,"subtitle":"DE CASA EM CASA. Ofereça um estudo bíblico."},
+    {"number":5,"title":"Iniciando conversas","duration":4,"subtitle":"TESTEMUNHO INFORMAL. Ofereça um estudo bíblico."},
+    {"number":6,"title":"Cultivando o interesse","duration":5,"subtitle":"DE CASA EM CASA. Ofereça um estudo bíblico."},
+    {"number":7,"title":"Use seu tempo da melhor forma durante a campanha","duration":15,"subtitle":"Consideração."},
+    {"number":8,"title":"Estudo bíblico de congregação","duration":30,"subtitle":"wcg cap. 7"}
+  ],
+  "songs": {"opening":1,"opening_title":"","mid":128,"mid_title":"","closing":143,"closing_title":""},
+  "assignments": {},
+  "settings": {"meeting_time":"19:30","meeting_weekday":"Quarta-feira"},
+  "imported_at": "2026-09-07T12:00:00.000Z",
+  "generated_by": "bundled-current-week"
+}
